@@ -19,7 +19,6 @@ b = 2
 is a shortcut for
 var a = 1
 var b = 2
-...
 */
 var (
 	// here we define the subcommands and the flags.
